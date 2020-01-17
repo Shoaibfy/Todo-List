@@ -1,0 +1,38 @@
+
+
+.App {
+  display:flex;
+  flex-direction: center;
+  background-color:tan;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  
+
+}
+.todo {
+  display:flex;
+  flex-direction:center;
+  padding: 2% solid red;
+  background-color:whitesmoke;
+  height: 150px;
+  padding: 20px;
+  color:burlywood;
+  
+
+}
+.unche:checked+span
+  {
+  display:flex;
+  flex-direction:row;
+  padding: 20% solid red;
+  background-color:whitesmoke;
+  height: 150px;
+  padding: 20px;
+  color:burlywood;
+  text-decoration:line-through;
+  
+  
+
+}
+
