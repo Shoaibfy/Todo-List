@@ -33,7 +33,7 @@ this.setState({
   render() {
     return (
       <div className="todo"> Adding todo list details:
-        <div>
+        <div className="todo1">
           <input
            type="text"
            onChange={event =>this.takeInput(event.target.value)}
@@ -71,7 +71,7 @@ class App extends Component {
 displayText(text){
   this.setState({
     note:text,
-    items:[...this.state.items,note]
+    items:[...this.state.items,text]
   })
   }               
 
