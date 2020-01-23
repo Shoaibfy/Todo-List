@@ -3,8 +3,6 @@
 
 ### Prerequisites
 
-You need to install the following packages for backend:
-
 ### Installation
 
 Clone your git repository
