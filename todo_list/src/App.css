@@ -1,5 +1,5 @@
 
-
+/* 
 .App {
   display:flex;
   flex-direction: center;
@@ -9,13 +9,13 @@
   color: white;
   
 
-}
+} */
 .todo {
   display:flex;
   flex-direction:center;
   padding: 2% solid red;
   background-color:lavender;
-  height: 150px;
+  /* height: 150px; */
   padding: 20px;
   color:orangered;
   
