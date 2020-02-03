@@ -24,7 +24,7 @@ Dependencies are:
 
 ```
 
-Go to '/Trip-Control/frontend' and type the following code in the terminal:
+Go to '/todo-list' and type the following code in the terminal:
 ```
 "sudo apt install nodejs",
 "node --version",
